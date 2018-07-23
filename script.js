@@ -1,5 +1,5 @@
 $(document).ready(function(){
-			$('a.toggle').click(function(){
+			$('.toggle').click(function(){
 				$('.nav-right').toggleClass('active');
 			});
 		});
